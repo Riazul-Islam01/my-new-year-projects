@@ -54,6 +54,11 @@
 
 }
 
+.body-text-header {
+  text-align: left;
+  padding-bottom: 15px;
+}
+
 .body-text {
   padding-right: 80px;
 }
@@ -76,13 +81,18 @@
 }
 
 .callNow-banner {
-  background-image: url(/images/watch.png);
+  background-image:
+    linear-gradient(to right, rgb(26, 26, 138), rgba(179, 167, 177, 0.73)),
+    url(/images/watch.png);
+  background-size: 100%;
+  background-position: center;
   background-repeat: no-repeat;
-  width: 1200px;
+  width: 1000px;
   height: 200px;
   margin-right: 20px;
-  margin-left: 60px;
+  margin-left: 125px;
   margin-top: 80px;
+
 }
 
 .banner-text {
