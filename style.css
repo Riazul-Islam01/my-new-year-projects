@@ -91,7 +91,7 @@
 .callNow-banner {
   background-image:
     linear-gradient(to right, rgb(26, 26, 138), rgba(179, 167, 177, 0.73)),
-    url(/images/watch.png);
+    url(./images/watch.png);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
