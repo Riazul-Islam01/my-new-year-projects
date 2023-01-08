@@ -14,7 +14,7 @@
 }
 
 .picture {
-  background-image: url(/images/banner/banner3.png);
+  background-image: url(./images/banner/banner3.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 172px;
